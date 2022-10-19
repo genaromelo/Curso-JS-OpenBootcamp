@@ -1,0 +1,12 @@
+{
+  "name": "primerproyectonode",
+  "version": "1.0.0",
+  "description": "Primer proyecto Node Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Genaro Melo",
+  "license": "ISC"
+}
